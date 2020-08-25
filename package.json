@@ -1,0 +1,35 @@
+{
+  "name": "cordova-plugin-document-handler",
+  "displayName": "Document Handler",
+  "version": "0.02.2",
+  "description": "A Phonegap plugin to handle documents (f.e. PDFs) given by URL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remoorejr/DocumentHandler.git"
+  },
+  "keywords": [
+    "Cordova",
+    "Documents",
+    "PDF"
+  ],
+  "author": "https://github.com/ti8m",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/ti8m/DocumentHandler/issues"
+  },
+  "homepage": "https://github.com/ti8m/DocumentHandler#readme",
+  "platforms": [
+    "android",
+    "ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ]
+}
